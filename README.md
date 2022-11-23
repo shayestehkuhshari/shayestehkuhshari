@@ -12,6 +12,6 @@
 
 # Social
 
-![](https://img.shields.io/badge/Twitter-151e32?style=for-the-badge&logo=twitter&logoColor=white)
-![](https://img.shields.io/badge/Instagram-151e32?style=for-the-badge&logo=instagram&logoColor=white)
-![](https://img.shields.io/badge/LinkedIn-151e32?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/Twitter-9C90FF?style=for-the-badge&logo=twitter&logoColor=white)
+![](https://img.shields.io/badge/Instagram-9C90FF?style=for-the-badge&logo=instagram&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-9C90FF?style=for-the-badge&logo=linkedin&logoColor=white)
