@@ -1,6 +1,6 @@
 * 👩‍💻I’m shayesteh, a junior mobile developer.
 * 🔎I love everythink that is tech and am on a mission to constantly learn new things.
-* 🤓I’m currently learning Dart,Flutter
+* 🤓I’m currently learning Java, Dart, Flutter
 
 ## 🦄My Favorite Technologies
 
